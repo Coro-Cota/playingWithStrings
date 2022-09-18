@@ -61,6 +61,8 @@ console.log(practice_with_some_strings.charAt(0))
 
 console.log(practice_with_some_strings.charCodeAt(0))
 
+// git test 
+
 //Bonus: find the range of lower and uppercase letters
 
 
